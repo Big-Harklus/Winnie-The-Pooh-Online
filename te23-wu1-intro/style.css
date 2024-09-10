@@ -1,0 +1,13 @@
+body{
+    font-family: system-ui;
+    font-size: 1.2rem;
+}
+
+main, footer{
+    max-width: 80ch;
+    margin-inline: auto;
+}
+
+footer{
+    margin-top: 5rem;
+}
